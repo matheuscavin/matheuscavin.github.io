@@ -3,9 +3,12 @@
 ## About Me
 I'm studying electrical engineering at Pontifícia Universidade Católica de Campinas. Actually, I am about to graduate in it.
 <br>
+<br>
 During the period of graduation I did two surveys on the optimization of energy storage devices operation and allocation. One I have used mathematical model (programmed with AMPL) while in the other one I have used metaheuristic, being more specific, Tabu Search. This metaheuristic was made using Python.
 <br>
+<br>
 Also I have participated the university’s robotic group where we started developing an autonomous robot. Finally I have performed optimization projects for the worldwide known Dell and also CPFL, third biggest Brazilian electric utility company. These last two projects were part of my graduation program.
+<br>
 <br>
 Last but not least, I am currently working with web and app development. Although I had many opportunities I am always looking for knowledge and challenges.
 
